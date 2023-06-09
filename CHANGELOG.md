@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/artemijspavlovs/gopipeit/compare/v1.0.0...v1.0.1) (2023-06-09)
+
+
+### Documentation
+
+* add gif with gopipeit demo ([145f82a](https://github.com/artemijspavlovs/gopipeit/commit/145f82a2e2c65d14a6a39c622dbd4990f88cd5c0))
+* exclude docs from pre-commit hook check ([d49d38a](https://github.com/artemijspavlovs/gopipeit/commit/d49d38a7cfd399f258518769385def3118dd8dd5))
+
 ## 1.0.0 (2023-06-09)
 
 
